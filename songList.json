@@ -1,653 +1,471 @@
 [
   {
     "id": 1,
-    "anime": "Mermaid Melody: Pichi Pichi Pitch - Opening 3",
-    "name": "\"Before the Moment\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/f5hte9.webm",
+    "anime": "Futari wa Milky Holmes - Ending 1",
+    "name": "\"Seishun Beginner!\" by Milky Holmes Feathers",
+    "video": "https://eudist.animemusicquiz.com/w5nd65.webm",
     "mp3": null
   },
   {
     "id": 2,
-    "anime": "Mermaid Melody: Pichi Pichi Pitch - Insert Song",
-    "name": "\"Beautiful Wish\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/b9f8m9.webm",
+    "anime": "Tantei Kageki Milky Holmes TD - Insert Song",
+    "name": "\"Ii Hi TD\" by Milky Holmes & Feathers & Yoshino Nanjo & Emi Nitta",
+    "video": "https://eudist.animemusicquiz.com/3mlulf.webm",
     "mp3": null
   },
   {
     "id": 3,
-    "anime": "Mermaid Melody: Pichi Pichi Pitch - Insert Song",
-    "name": "\"Birth of Love\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/80ahwj.webm",
+    "anime": "Cardfight!! Vanguard G GIRS Crisis-hen - Ending 1",
+    "name": "\"Don't Look Back\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/q83sk8.webm",
     "mp3": null
   },
   {
     "id": 4,
-    "anime": "Mermaid Melody: Pichi Pichi Pitch - Insert Song",
-    "name": "\"Legend of Mermaid ~Piano Version~\" by Almost The Entire Fucking Cast",
-    "video": "https://eudist.animemusicquiz.com/q9dq8y.webm",
+    "anime": "BanG Dream! - Ending 2",
+    "name": "\"Teardrops\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/5blknn.webm",
     "mp3": null
   },
   {
     "id": 5,
-    "anime": "Konjiki no Gash Bell!! - Ending 3",
-    "name": "\"Tsuyogari\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/nzgxgq.webm",
+    "anime": "BanG Dream! - Ending 3",
+    "name": "\"Yumemiru Sunflower\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ixn80f.webm",
     "mp3": null
   },
   {
     "id": 6,
-    "anime": "Touka Gettan - Opening 1",
-    "name": "\"Yume Oboro\" by Eri Kitamura with Mariya Ise & Saori Hayami",
-    "video": "https://eudist.animemusicquiz.com/pay7s8.webm",
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"Watashi no Kokoro wa Choco Cornet\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ibcpn4.webm",
     "mp3": null
   },
   {
     "id": 7,
-    "anime": "Kodomo no Jikan - Opening 1",
-    "name": "\"Let's! Ohime-sama Dakko\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/sib97r.webm",
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"STAR BEAT!~Hoshi no Kodou~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/x1ix31.webm",
     "mp3": null
   },
   {
     "id": 8,
-    "anime": "Kodomo no Jikan - Ending 3",
-    "name": "\"Otome Chikku Shoshinsha desu\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/gtrodd.webm",
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"Mae e Susume!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/2vypew.webm",
     "mp3": null
   },
   {
     "id": 9,
-    "anime": "Koharu Biyori - Opening 1",
-    "name": "\"Apron dake wa Toranaide!\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/kh4954.webm",
+    "anime": "Cardfight!! Vanguard G Next - Ending 1",
+    "name": "\"Wing of Image\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/iping3.webm",
     "mp3": null
   },
   {
     "id": 10,
-    "anime": "Koharu Biyori - Ending 1",
-    "name": "\"Love Song Kamo Shirenai\" by Eri Kitamura & Satomi Akesaka",
-    "video": "https://eudist.animemusicquiz.com/goepqt.webm",
+    "anime": "Slow Start - Opening 1",
+    "name": "\"ne! ne! ne!\" by STARTails☆",
+    "video": "https://eudist.animemusicquiz.com/pijqdc.webm",
     "mp3": null
   },
   {
     "id": 11,
-    "anime": "Koharu Biyori - Ending 2",
-    "name": "\"Hora, Attaka Nan desu.\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/qgubrg.webm",
+    "anime": "Slow Start - Ending 2",
+    "name": "\"Yuuyake to Issho ni\" by STARTails☆",
+    "video": "https://eudist.animemusicquiz.com/dafnp9.webm",
     "mp3": null
   },
   {
     "id": 12,
-    "anime": "Koharu Biyori - Insert Song",
-    "name": "\"Oppai wa Dame\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/ag73ci.webm",
+    "anime": "Future Card Shin Buddyfight - Opening 1",
+    "name": "\"Saa Ikou!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/m8f9rk.webm",
     "mp3": null
   },
   {
     "id": 13,
-    "anime": "Nogizaka Haruka no Himitsu - Insert Song",
-    "name": "\"Apron dake wa Toranaide!\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/0g8dy8.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight - Ending 9",
+    "name": "\"Fly Me to the Star\" by Maho Tomita, Hinata Satou, Haruki Iwata, Moeka Koizumi, Aina Aiba, Teru Ikuta, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/oajhad.webm",
     "mp3": null
   },
   {
     "id": 14,
-    "anime": "Seto no Hanayome OVA - Opening 2",
-    "name": "\"Tenshi Ranman Love Power\" by Setobana Angels",
-    "video": "https://eudist.animemusicquiz.com/96kadz.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight - Insert Song",
+    "name": "\"Hanasaka Uta\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/r083hh.webm",
     "mp3": null
   },
   {
     "id": 15,
-    "anime": "Seto no Hanayome OVA - Ending 1",
-    "name": "\"Mirai e Go\" by DEKABANCHO",
-    "video": "https://eudist.animemusicquiz.com/10qu27.webm",
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Happy Happy Party!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/gxpjek.webm",
     "mp3": null
   },
   {
     "id": 16,
-    "anime": "Kodomo no Jikan - Opening 1",
-    "name": "\"Otome Chikku Shoshinsha desu\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/v6w8uf.webm",
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Kirakira da toka Yume da toka ~Sing Girls~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/co6i43.webm",
     "mp3": null
   },
   {
     "id": 17,
-    "anime": "Kodomo no Jikan - Opening 2",
-    "name": "\"Guilty Future\" by Eri Kitamura",
-    "video": null,
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Returns\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/oh0dub.webm",
     "mp3": null
   },
   {
     "id": 18,
-    "anime": "Kodomo no Jikan - Opening 3",
-    "name": "\"Let's! Ohime-sama Dakko\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/sib97r.webm",
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Dreamers Go!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/upw7dk.webm",
     "mp3": null
   },
   {
     "id": 19,
-    "anime": "Toradora! - Opening 1",
-    "name": "\"Pre-Parade\" by Rie Kugimiya, Yui Horie, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/7say48.webm",
+    "anime": "BanG Dream! Film Live - Ending 1",
+    "name": "\"Jumpin'\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/vnik2s.webm",
     "mp3": null
   },
   {
     "id": 20,
-    "anime": "Toradora! - Ending 2",
-    "name": "\"Orange\" by Rie Kugimiya, Yui Horie, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/jsn9j9.webm",
+    "anime": "BanG Dream! Film Live - Insert Song",
+    "name": "\"Double Rainbow\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/mb6vuv.webm",
     "mp3": null
   },
   {
     "id": 21,
-    "anime": "Toradora! - Ending 3",
-    "name": "\"Holy Night\" by Rie Kugimiya & Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/3fe3jp75p5c5jek7.webm",
+    "anime": "BanG Dream! Film Live - Insert Song",
+    "name": "\"Kizuna Music♪\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/x5b7j4.webm",
     "mp3": null
   },
   {
     "id": 22,
-    "anime": "Toradora! - Insert Song",
-    "name": "\"Holy Night\" by Rie Kugimiya & Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/2a2cz1.webm",
+    "anime": "Cardfight!! Vanguard: Shinemon-hen - Insert Song",
+    "name": "\"Mermaid Graffiti\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/6kbt39.webm",
     "mp3": null
   },
   {
     "id": 23,
-    "anime": "Kodomo no Jikan 2-gakki - Opening 1",
-    "name": "\"Guilty Future\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/27qd9h.webm",
+    "anime": "Mini Van 2 - Ending 1",
+    "name": "\"Friends\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/t9sllm.webm",
     "mp3": null
   },
   {
     "id": 24,
-    "anime": "Kodomo no Jikan 2-gakki - Ending 2",
-    "name": "\"Yori Dori Princess\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/41f8q2.webm",
+    "anime": "BanG Dream! Asonjatta! - Insert Song",
+    "name": "\"Hachigatsu no if\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/2lw9ab.webm",
     "mp3": null
   },
   {
     "id": 25,
-    "anime": "Fresh Precure! - Opening 3",
-    "name": "\"Let's! Fresh Precure! ~Hybrid ver.~for the Movie\" by Mizuki Moie with Cure Fresh!",
-    "video": "https://eudist.animemusicquiz.com/n2velr.webm",
+    "anime": "Shoujo☆Conto All Starlight - Ending 1",
+    "name": "\"Butai Shoujo Taisou\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/v9bxzh.webm",
     "mp3": null
   },
   {
     "id": 26,
-    "anime": "Kanamemo - Insert Song",
-    "name": "\"Sore ga Mizugi♪\" by Yui Horie, Ryou Hirohashi, Aya Endou, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/3681wr.webm",
+    "anime": "BanG Dream! 3rd Season - Ending 3",
+    "name": "\"Yume o Uchinuku Shunkan ni!\" by Poppin'Party×Roselia×RAISE A SUILEN",
+    "video": "https://eudist.animemusicquiz.com/9wa7og.webm",
     "mp3": null
   },
   {
     "id": 27,
-    "anime": "Kanamemo - Insert Song",
-    "name": "\"Dairi wa Oni♪\" by Kaoru Mizuhara, Aya Endou, Eri Kitamura, Yui Horie",
-    "video": "https://eudist.animemusicquiz.com/mdu6rz.webm",
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Step×Step!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/m6gvc5.webm",
     "mp3": null
   },
   {
     "id": 28,
-    "anime": "Kanamemo - Insert Song",
-    "name": "\"Natsu wa Yappari Pool Desho♪\" by Ryou Hirohashi, Aya Endou, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/aonanm.webm",
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Poppin' Shuffle\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/sl2vax.webm",
     "mp3": null
   },
   {
     "id": 29,
-    "anime": "Kanamemo - Insert Song",
-    "name": "\"Hataraku Shoujo♪\" by Hataraku Shoujo-tachi",
-    "video": "https://eudist.animemusicquiz.com/5innya.webm",
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Mirai Train\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/8wck4t.webm",
     "mp3": null
   },
   {
     "id": 30,
-    "anime": "Kanamemo - Insert Song",
-    "name": "\"Saishin News o Mattete ne. ~Fuushin Shinbun Senbaijo no Theme~\" by Fuushin Shinbun Senbaijoin with Rie Kugimiya",
-    "video": "https://eudist.animemusicquiz.com/6oex5u.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Ending 1",
+    "name": "\"Saisei Sanbikyoku\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/hfwfkr.webm",
     "mp3": null
   },
   {
     "id": 31,
-    "anime": "Needless - Ending 1",
-    "name": "\"Aggressive zone\" by Needless★Girls+",
-    "video": "https://eudist.animemusicquiz.com/k98h0o.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Yoi Hanasaka Uta\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/3o7k2r.webm",
     "mp3": null
   },
   {
     "id": 32,
-    "anime": "Needless - Ending 2",
-    "name": "\"WANTED! for the love\" by Needless★Girls+",
-    "video": "https://eudist.animemusicquiz.com/vf3178.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Butai Shoujo Kokoroe Makuai\" by Momoyo Koyama, Maho Tomita, Hinata Satou, Haruki Iwata, Moeka Koizumi, Aina Aiba, Teru Ikuta, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/0j55ei.webm",
     "mp3": null
   },
   {
     "id": 33,
-    "anime": "Eiga Fresh Precure!: Omocha no Kuni wa Himitsu ga Ippai!? - Opening 1",
-    "name": "\"Let's! Fresh Precure! ~Hybrid ver.~for the Movie\" by Mizuki Moie with Cure Fresh!",
-    "video": "https://eudist.animemusicquiz.com/b7nvp2.webm",
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Hoshi no Dialogue\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/ium44c.webm",
     "mp3": null
   },
   {
     "id": 34,
-    "anime": "Eiga Fresh Precure!: Omocha no Kuni wa Himitsu ga Ippai!? - Ending 1",
-    "name": "\"H@ppy Together!!! for the Movie\" by Momoko Hayashi with Cure Fresh!",
-    "video": "https://eudist.animemusicquiz.com/payaw1.webm",
+    "anime": "Gekijouban Shoujo☆Kageki Revue Starlight - Ending 1",
+    "name": "\"Watashi-tachi wa Mou Butai no Ue\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/u8vc9p.webm",
     "mp3": null
   },
   {
     "id": 35,
-    "anime": "Working!! - Opening 1",
-    "name": "\"SOMEONE ELSE\" by Kana Asumi, Saki Fujita, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/wgwi8d.webm",
+    "anime": "Gekijouban Shoujo☆Kageki Revue Starlight - Insert Song",
+    "name": "\"Wagamama Highway\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/zfhvna.webm",
     "mp3": null
   },
   {
     "id": 36,
-    "anime": "Queen's Blade: Utsukushiki Toushi-tachi - Ending 1",
-    "name": "\"Bitoushi Carnival ~Taoreru Toki wa Maemuki ni~ um:1\" by Kanae Itou, Yuki Kaida, Yuuko Kaida, Yui Kano, Ayako Kawasumi, Eri Kitamura, Rie Kugimiya, Kaori Mizuhashi, Hitomi Nabatame, Mamiko Noto, Sayaka Ohara, Ayaka Saitou, Fumihiko Tachiki, Mikako Takahashi, Atsuko Tanaka, Rie Tanaka, Ryoka Yuzuki",
-    "video": "https://eudist.animemusicquiz.com/7qdv5q.webm",
+    "anime": "Taishou Otome Otogibanashi - Ending 2",
+    "name": "\"Koi no Uta\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/f6tzpk.webm",
     "mp3": null
   },
   {
     "id": 37,
-    "anime": "Queen's Blade: Utsukushiki Toushi-tachi - Ending 2",
-    "name": "\"Bitoushi Carnival ~Taoreru Toki wa Maemuki ni~ dois:2\" by Kanae Itou, Yuki Kaida, Yuuko Kaida, Yui Kano, Ayako Kawasumi, Eri Kitamura, Rie Kugimiya, Kaori Mizuhashi, Hitomi Nabatame, Mamiko Noto, Sayaka Ohara, Ayaka Saitou, Fumihiko Tachiki, Mikako Takahashi, Atsuko Tanaka, Rie Tanaka, Ryoka Yuzuki",
-    "video": "https://eudist.animemusicquiz.com/peixyl.webm",
+    "anime": "Taishou Otome Otogibanashi - Insert Song",
+    "name": "\"Tsukiyo no Kotori\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/rbsfy9.webm",
     "mp3": null
   },
   {
     "id": 38,
-    "anime": "Queen's Blade: Utsukushiki Toushi-tachi - Ending 3",
-    "name": "\"Bitoushi Carnival ~Taoreru Toki wa Maemuki ni~ tres:3\" by Kanae Itou, Yuki Kaida, Yuuko Kaida, Yui Kano, Ayako Kawasumi, Eri Kitamura, Rie Kugimiya, Kaori Mizuhashi, Hitomi Nabatame, Mamiko Noto, Sayaka Ohara, Ayaka Saitou, Fumihiko Tachiki, Mikako Takahashi, Atsuko Tanaka, Rie Tanaka, Ryoka Yuzuki",
-    "video": "https://eudist.animemusicquiz.com/b29ug9.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Opening 1",
+    "name": "\"Poppin'Dream!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ycq2b1.webm",
     "mp3": null
   },
   {
     "id": 39,
-    "anime": "Onii-chan no Koto Nanka Zenzen Suki ja Nain Dakara ne!! - Opening 1",
-    "name": "\"Taste of Paradise\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/y5uajc.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Ending 1",
+    "name": "\"Hoshi no Yakusoku\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/3nqeli.webm",
     "mp3": null
   },
   {
     "id": 40,
-    "anime": "Onii-chan no Koto Nanka Zenzen Suki ja Nain Dakara ne!! - Ending 1",
-    "name": "\"Ari Ari Mirai☆\" by Eri Kitamura, Marina Inoue, Kazusa Aranami",
-    "video": "https://eudist.animemusicquiz.com/c816e7.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Hashiri Hajimeta Bakari no Kimi ni ~Popipa Acoustic Ver.~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/lrz27q.webm",
     "mp3": null
   },
   {
     "id": 41,
-    "anime": "Softenni! - Opening 1",
-    "name": "\"Rulebook o Wasurechae\" by ULTRA-PRISM with Shiratama Chuugakkou Joshi Soft Tennis-bu",
-    "video": "https://eudist.animemusicquiz.com/n3rdo3.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Breakthrough!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ac6sol.webm",
     "mp3": null
   },
   {
     "id": 42,
-    "anime": "Mahou Shoujo Madoka★Magica - Ending 3",
-    "name": "\"and I'm home\" by Eri Kitamura & Ai Nonaka",
-    "video": "https://eudist.animemusicquiz.com/as3ucm.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Time Lapse\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/y367bp.webm",
     "mp3": null
   },
   {
     "id": 43,
-    "anime": "Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai o Tsunagu☆Niji-iro no Hana - Ending 1",
-    "name": "\"Arigatou ga Ippai\" by Cure Rainbows with Precure All Stars 21 feat. Young Fresh",
-    "video": "https://eudist.animemusicquiz.com/k3o4oz.webm",
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Tokimeki Experience!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/h3206p.webm",
     "mp3": null
   },
   {
     "id": 44,
-    "anime": "Mayo Chiki! - Opening 1",
-    "name": "\"Be Starters!\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/9ibn1p.webm",
+    "anime": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei - Ending 1",
+    "name": "\"Moonlight Walk\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/6l8ha9.webm",
     "mp3": null
   },
   {
     "id": 45,
-    "anime": "Mayo Chiki! - Ending 1",
-    "name": "\"Kimi ni Gohoushi\" by Yuka Iguchi, Eri Kitamura, Mariya Ise",
-    "video": "https://eudist.animemusicquiz.com/dfn4lm.webm",
+    "anime": "Mewkledreamy Mix! - Insert Song",
+    "name": "\"UP ON THE STAGE!!\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/mznpkc.webm",
     "mp3": null
   },
   {
     "id": 46,
-    "anime": "Mayo Chiki! - Insert Song",
-    "name": "\"HAPPY HAPPY BIRTHDAY\" by Yuka Iguchi, Eri Kitamura, Mariya Ise, Kana Asumi, Natsuko Kuwatani, Kaori Ishihara, Yui Ogura",
-    "video": "https://eudist.animemusicquiz.com/nw99ry.webm",
+    "anime": "Boku-tachi no Remake - Opening 1",
+    "name": "\"Koko kara Saki wa Uta ni Naranai\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/zn0mk3.webm",
     "mp3": null
   },
   {
     "id": 47,
-    "anime": "Katte ni Kaizou - Insert Song",
-    "name": "\"Dokkidoki! LOVE Mail\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/aa1s5r.webm",
+    "anime": "BanG Dream! Film Live 2nd Stage - Ending 1",
+    "name": "\"Yume o Uchinuku Shunkan ni!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/yjcgcg.webm",
     "mp3": null
   },
   {
     "id": 48,
-    "anime": "Kodomo no Jikan: Kodomo no Natsu Jikan - Opening 1",
-    "name": "\"Let's! Ohime-sama Dakko\" by Eri Kitamura, Kei Shindou, Mai Kadowaki",
-    "video": "https://eudist.animemusicquiz.com/sib97r.webm",
+    "anime": "BanG Dream! Film Live 2nd Stage - Ending 2",
+    "name": "\"Kizuna-iro no Ensemble\" by Poppin'Party×Pastel*Palettes×Morfonica",
+    "video": "https://eudist.animemusicquiz.com/uyvj8l.webm",
     "mp3": null
   },
   {
     "id": 49,
-    "anime": "Sengoku Otome: Momo-iro Paradox - Ending 2",
-    "name": "\"Atsuki Ya no Gotoku ~Shinjuu Otome Version~\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/c2s46v.webm",
+    "anime": "BanG Dream! Film Live 2nd Stage - Insert Song",
+    "name": "\"Initial\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/1cpl5p.webm",
     "mp3": null
   },
   {
     "id": 50,
-    "anime": "Working'!! - Opening 1",
-    "name": "\"COOLISH WALK\" by Kana Asumi, Saki Fujita, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/doyuoi.webm",
+    "anime": "BanG Dream! Film Live 2nd Stage - Insert Song",
+    "name": "\"CiRCLING\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/72sk8v.webm",
     "mp3": null
   },
   {
     "id": 51,
-    "anime": "C³ - Opening 2",
-    "name": "\"Shirushi\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/vc0no2.webm",
+    "anime": "Reiwa no Di Gi Charat - Ending 1",
+    "name": "\"Welcome! (D-POP version)\" by Asami Sanada, Miyuki Sawashiro, Kyoko Hikami, Satomi Akesaka, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/7bxu83.webm",
     "mp3": null
   },
   {
     "id": 52,
-    "anime": "C³ - Ending 1",
-    "name": "\"Hana\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/h8rym6.webm",
+    "anime": "Reiwa no Di Gi Charat - Insert Song",
+    "name": "\"PARTY☆NIGHT (D-POP version)\" by Asami Sanada, Miyuki Sawashiro, Kyoko Hikami, Satomi Akesaka, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/53ruba.webm",
     "mp3": null
   },
   {
     "id": 53,
-    "anime": "Nisemonogatari - Opening 2",
-    "name": "\"marshmallow justice\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/ka11j5.webm",
+    "anime": "Mou Ippon! - Ending 1",
+    "name": "\"Ipponmichi\" by Aoba Nishi Koukou Judo-bu",
+    "video": "https://eudist.animemusicquiz.com/ojx27a.webm",
     "mp3": null
   },
   {
     "id": 54,
-    "anime": "Haiyore! Nyaruko-san - Ending 2",
-    "name": "\"Magamagashiku mo Sei Naru kana\" by Ushiro kara Haiyori-tai",
-    "video": "https://eudist.animemusicquiz.com/nrwv5e.webm",
+    "anime": "Kunoichi Tsubaki no Mune no Uchi - Ending 11",
+    "name": "\"Akane-gumi Katsudou Nisshi ~Usagi-han~\" by Saya Aizawa・Eri Yukimura・Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/69irs7.webm",
     "mp3": null
   },
   {
     "id": 55,
-    "anime": "Haiyore! Nyaruko-san - Insert Song",
-    "name": "\"Kurogane no Striver\" by Ushiro kara Haiyori-tai B",
-    "video": "https://eudist.animemusicquiz.com/4rvioc.webm",
+    "anime": "Kunoichi Tsubaki no Mune no Uchi - Ending 13",
+    "name": "\"Akane-gumi Katsudou Nisshi ~Neushitorautatsumiumahitsujisarutoriinui Daishuugou!~\" by Neushitorautatsumiumahitsujisarutoriinui",
+    "video": "https://eudist.animemusicquiz.com/ydzpb9.webm",
     "mp3": null
   },
   {
     "id": 56,
-    "anime": "Papa no Iu Koto o Kikinasai! - Opening 1",
-    "name": "\"Happy Girl\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/h0th6y.webm",
+    "anime": "Teppen!!!!!!!!!!!!!!! - Opening 1",
+    "name": "\"Teppen Tengoku ~TOP OF THE LAUGH!!!~\" by Teppen All Stars",
+    "video": "https://eudist.animemusicquiz.com/fperb6.webm",
     "mp3": null
   },
   {
     "id": 57,
-    "anime": "One Off - Insert Song",
-    "name": "\"Memories ~Poco a Poco Ver.\" by Saori Goto, Saori Hayami, Eri Kitamura, Yuko Gibu",
-    "video": "https://eudist.animemusicquiz.com/7l0n5b.webm",
+    "anime": "Teppen!!!!!!!!!!!!!!! - Ending 2",
+    "name": "\"Hug Your Leg\" by Young Waiwai",
+    "video": "https://eudist.animemusicquiz.com/s49gy3.webm",
     "mp3": null
   },
   {
     "id": 58,
-    "anime": "Senran Kagura - Ending 2",
-    "name": "\"Yamiyo wa Otome o Hana ni Suru\" by Eri Kitamura, Ai Kayano, Ryoko Shiraishi, Saori Goto, Megumi Toyoguchi",
-    "video": "https://eudist.animemusicquiz.com/xn4ych.webm",
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Ending 2",
+    "name": "\"SAKURA MEMORIES\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/y8mc2m.webm",
     "mp3": null
   },
   {
     "id": 59,
-    "anime": "Onii-chan dakedo Ai sae Areba Kankeinai yo ne - Ending 1",
-    "name": "\"Life-ru is LOVE-Ru!!\" by Liliana Sisters",
-    "video": "https://eudist.animemusicquiz.com/6d0i50.webm",
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Insert Song",
+    "name": "\"Photograph\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/1h10oq.webm",
     "mp3": null
   },
   {
     "id": 60,
-    "anime": "Arve Rezzle: Kikaijikake no Yousei-tachi - Ending 1",
-    "name": "\"Sha le la\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/3kmkxm.webm",
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Insert Song",
+    "name": "\"CiRCLE THANKS MUSIC♪\" by CiRCLE THANKS PARTY! Special Band",
+    "video": "https://eudist.animemusicquiz.com/a5rwum.webm",
     "mp3": null
   },
   {
     "id": 61,
-    "anime": "Magical Suite Prism Nana - Insert Song",
-    "name": "\"starry melody\" by Suzuko Mimori, Asami Imai, Eri Kitamura, Chika Anzai",
-    "video": "https://eudist.animemusicquiz.com/dpho18.webm",
+    "anime": "Uma Musume: Pretty Derby Season 3 - Ending 6",
+    "name": "\"Uma Pyoi Densetsu\" by Uma Musume 3",
+    "video": "https://eudist.animemusicquiz.com/fpxo6v.webm",
     "mp3": null
   },
   {
     "id": 62,
-    "anime": "Haiyore! Nyaruko-san W - Ending 5",
-    "name": "\"Ai Crusaders†Striver\" by RAMM ni Haiyoru Mahiro-san to Yoichi-san",
-    "video": "https://eudist.animemusicquiz.com/55wv0j.webm",
+    "anime": "Turkey! - Opening 1",
+    "name": "\"Hyakunichisou\" by Nagano-ken Ikkoku-kan Koukou Bowling-bu",
+    "video": "https://eudist.animemusicquiz.com/iv1x470k73at7tsn.webm",
     "mp3": null
   },
   {
     "id": 63,
-    "anime": "Haiyore! Nyaruko-san W - Insert Song",
-    "name": "\"Blast of Fate ~Kaze no Yukue~\" by Ushiro kara Haiyori-tai B",
-    "video": "https://eudist.animemusicquiz.com/rf0ygn.webm",
+    "anime": "Oomuro-ke - Ending 1",
+    "name": "\"Oogesa ni Ai to Yobunda\" by Rina Hidaka, Reo Kurachi, Ayasa Ito, Aoi Koga",
+    "video": "https://eudist.animemusicquiz.com/m36drw.webm",
     "mp3": null
   },
   {
     "id": 64,
-    "anime": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou - Insert Song",
-    "name": "\"Shiroi Fuukei\" by ARTERY VEIN",
-    "video": "https://eudist.animemusicquiz.com/l61v8i.webm",
+    "anime": "Elf-san wa Yaserarenai. - Ending 7",
+    "name": "\"Minna DE Diet\" by Demo Tabe-tai",
+    "video": "https://eudist.animemusicquiz.com/a7bb9b.webm",
     "mp3": null
   },
   {
     "id": 65,
-    "anime": "Kamisama no Inai Nichiyoubi - Opening 1",
-    "name": "\"Birth\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/236vq0.webm",
+    "anime": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen - Ending 1",
+    "name": "\"Drive Your Heart\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/bllhu3x09nesmlyj.webm",
     "mp3": null
   },
   {
     "id": 66,
-    "anime": "Sidonia no Kishi - Ending 1",
-    "name": "\"show\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/k5qlg8.webm",
+    "anime": "Maou no Musume wa Yasashi Sugiru!! - Insert Song",
+    "name": "\"Itazura Time\" by Misaki Kuno & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/4t13w2uyhcrgv0q6.webm",
     "mp3": null
   },
   {
     "id": 67,
-    "anime": "Hoozuki no Reitetsu - Opening 1",
-    "name": "\"Jigoku no Sata mo Kimi Shidai\" by Jigoku no Sata All Stars",
-    "video": "https://eudist.animemusicquiz.com/h0vffv.webm",
-    "mp3": null
-  },
-  {
-    "id": 68,
-    "anime": "Cross Ange: Tenshi to Ryuu no Rondo - Ending 1",
-    "name": "\"Rinrei\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/8z37di.webm",
-    "mp3": null
-  },
-  {
-    "id": 69,
-    "anime": "Yamada-kun to 7-nin no Majo - Insert Song",
-    "name": "\"ding!ging!dong!\" by Choujougenshou-bu",
-    "video": "https://eudist.animemusicquiz.com/k7dpn6.webm",
-    "mp3": null
-  },
-  {
-    "id": 70,
-    "anime": "Working!!! - Opening 1",
-    "name": "\"NOW!!!GAMBLE\" by Kana Asumi, Saki Fujita, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/l6ybm5.webm",
-    "mp3": null
-  },
-  {
-    "id": 71,
-    "anime": "Working!!! - Ending 2",
-    "name": "\"SOMEONE ELSE\" by Kana Asumi, Saki Fujita, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/5rowxm.webm",
-    "mp3": null
-  },
-  {
-    "id": 72,
-    "anime": "Eiga Precure All Stars: Haru no Carnival - Insert Song",
-    "name": "\"Ima Koko kara\" by Precure All Stars",
-    "video": "https://eudist.animemusicquiz.com/z236mz.webm",
-    "mp3": null
-  },
-  {
-    "id": 73,
-    "anime": "Phantasy Star Online 2: The Animation - Insert Song",
-    "name": "\"Our Fighting\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/hh6bed.webm",
-    "mp3": null
-  },
-  {
-    "id": 74,
-    "anime": "Kuma Miko - Ending 1",
-    "name": "\"KUMAMIKO DANCING\" by Natsumi Hioka & Hiroki Yasumoto feat. Kumaide-mura no Minasan",
-    "video": "https://eudist.animemusicquiz.com/dju772.webm",
-    "mp3": null
-  },
-  {
-    "id": 75,
-    "anime": "Ojisan to Marshmallow - Ending 1",
-    "name": "\"Message\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/7dx8lr.webm",
-    "mp3": null
-  },
-  {
-    "id": 76,
-    "anime": "Ojisan to Marshmallow - Ending 2",
-    "name": "\"Labyrinth\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/bb6vqm.webm",
-    "mp3": null
-  },
-  {
-    "id": 77,
-    "anime": "Koyomimonogatari - Opening 6",
-    "name": "\"marshmallow justice\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/qxf4jk.webm",
-    "mp3": null
-  },
-  {
-    "id": 78,
-    "anime": "Eiga Precure All Stars: Minna de Utau♪ Kiseki no Mahou! - Ending 1",
-    "name": "\"Minna ga Iru kara☆Precure All Stars\" by Precure All Stars",
-    "video": "https://eudist.animemusicquiz.com/eqo6v0.webm",
-    "mp3": null
-  },
-  {
-    "id": 79,
-    "anime": "Eiga Precure All Stars: Minna de Utau♪ Kiseki no Mahou! - Insert Song",
-    "name": "\"Majo no Komoriuta~Uta wa Mahou\" by Seiko Niizuma・Precure All Stars",
-    "video": "https://eudist.animemusicquiz.com/311gy6.webm",
-    "mp3": null
-  },
-  {
-    "id": 80,
-    "anime": "Sin: Nanatsu no Taizai - Insert Song",
-    "name": "\"Binetsu na Dancin'\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/i5vsg5.webm",
-    "mp3": null
-  },
-  {
-    "id": 81,
-    "anime": "Sin: Nanatsu no Taizai - Insert Song",
-    "name": "\"Goddamn♡Critical(Lucifer ver)\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/jfzvrw.webm",
-    "mp3": null
-  },
-  {
-    "id": 82,
-    "anime": "Sin: Nanatsu no Taizai - Insert Song",
-    "name": "\"Binetsu na ASUDEKO\" by Eri Kitamura × Azusa Tadokoro",
-    "video": "https://eudist.animemusicquiz.com/dm78vs.webm",
-    "mp3": null
-  },
-  {
-    "id": 83,
-    "anime": "Saiki Kusuo no Psi-nan - Ending 2",
-    "name": "\"Duet♡Shitekuda-Ψ\" by Saiki-kku Lover feat. Hiroshi Kamiya, Ai Kayano, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/6zw932.webm",
-    "mp3": null
-  },
-  {
-    "id": 84,
-    "anime": "gdMen - Opening 1",
-    "name": "\"Mousou Teikoku Chikuonki\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/8oke9l.webm",
-    "mp3": null
-  },
-  {
-    "id": 85,
-    "anime": "Saiki Kusuo no Psi-nan - Ending 1",
-    "name": "\"Duet♡Shitekuda-Ψ\" by Saiki-kku Lover feat. Hiroshi Kamiya, Ai Kayano, Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/66vxwb.webm",
-    "mp3": null
-  },
-  {
-    "id": 86,
-    "anime": "Phantasy Star Online 2: Episode Oracle - Ending 2",
-    "name": "\"Eien no encore\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/ikcac6.webm",
-    "mp3": null
-  },
-  {
-    "id": 87,
-    "anime": "Phantasy Star Online 2: Episode Oracle - Insert Song",
-    "name": "\"Our Fighting\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/jlky4w.webm",
-    "mp3": null
-  },
-  {
-    "id": 88,
-    "anime": "Eyedrops - Insert Song",
-    "name": "\"Me ga Megasukashon\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/uzszls.webm",
-    "mp3": null
-  },
-  {
-    "id": 89,
-    "anime": "Girls und Panzer das Finale - Insert Song",
-    "name": "\"Kawaii Pretty Senshadou\" by Mai Fuchigami, Kana Ueda, Eri Kitamura, Ayako Kawasumi, Mayu Yoshioka, Hisako Kanemoto, Hitomi Nabatame, Asami Seto, Mamiko Noto, Yumi Hara, Nao Touyama, Sakura Nakamura, Ayuru Ohashi, Minami Iinuma, Chinami Hashimoto",
-    "video": "https://eudist.animemusicquiz.com/05p76k.webm",
-    "mp3": null
-  },
-  {
-    "id": 90,
-    "anime": "Needless+: Saint Lily Gakuen no Himitsu - Ending 1",
-    "name": "\"New Cinema Kibun Paradise\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/pylbqo.webm",
-    "mp3": null
-  },
-  {
-    "id": 91,
-    "anime": "Needless+: Saint Lily Gakuen no Himitsu - Ending 5",
-    "name": "\"WANTED! for the love\" by Needless★Girls+",
-    "video": "https://eudist.animemusicquiz.com/e1g2w3.webm",
-    "mp3": null
-  },
-  {
-    "id": 92,
-    "anime": "Needless+: Saint Lily Gakuen no Himitsu - Ending 11",
-    "name": "\"Aggressive zone\" by Needless★Girls+",
-    "video": "https://eudist.animemusicquiz.com/4rbb6g.webm",
-    "mp3": null
-  },
-  {
-    "id": 93,
-    "anime": "Zettai Bouei Leviathan: Mini Takibi Gekijou - Insert Song",
-    "name": "\"A Girl\" by Eri Kitamura",
-    "video": "https://eudist.animemusicquiz.com/a3sw37.webm",
+    "anime": "Naoe-kun wa Yasesasetai. - Ending 1",
+    "name": "\"Mugen Mogumogu Time!\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/xvo7jaw22xdogq89.webm",
     "mp3": null
   }
 ]
